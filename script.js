@@ -10,11 +10,6 @@ return {
 }
 };
 
-/* Testing the Factory
-let relatedArray = ['henhouse', 'foxhole', 'rabbit\'s den'];
-let test = codePhraseFactory ('fox', relatedArray);
-console.log(test.whisper()) */
-
 const codePhrases = [];
 
 const displayCodePhrase = () => {
