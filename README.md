@@ -15,5 +15,6 @@ A simple randomized message generator meant to deliver spy-themed code phrases (
 This project is created with JavaScript and Node.js v10.16.1
 
 ## Setup
+
 * Download script.js locally
 * in terminal $ node script.js
